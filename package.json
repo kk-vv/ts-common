@@ -1,5 +1,5 @@
 {
-  "name": "ts-common",
+  "name": "@move.box/ts-common",
   "version": "1.0.0",
   "description": "ts personal common",
   "main": "dist/index.js",
