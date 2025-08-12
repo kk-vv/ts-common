@@ -1,0 +1,20 @@
+export declare const LogPrefix: {
+    success: string;
+    error: string;
+    stop: string;
+    search: string;
+    debug: string;
+    ignore: string;
+    warning: string;
+    info: string;
+    start: string;
+    finish: string;
+    wait: string;
+    retry: string;
+    pause: string;
+    resume: string;
+    time: string;
+    graduated: string;
+    launched: string;
+    swap: string;
+};
